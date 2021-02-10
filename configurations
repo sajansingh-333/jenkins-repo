@@ -1,0 +1,3 @@
+#Port no. changing for service:
+java -jar Jenkins.war  --httpport=9090
+(sometimes we call it stand alone port command to run jenkins )
